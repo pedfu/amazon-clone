@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+# Link to a demo version of the Amazon Clone
+
+https://clone-8776d.web.app/
+This version is not fully connected to the database, so the final order and the list of order should not be working, but in the code it should be working.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
