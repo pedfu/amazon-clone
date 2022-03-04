@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# amazon-clone
+A simple version of amazon. 
+
+https://clone-8776d.web.app -> This version is not connected to the database since I do not have a credit card to pay for firebase lol, but in the files, there is a full version using a simulation of database in firebase spark mode
+>>>>>>> 972832e56ff63b97f78691c9e87967eb0f92ed5a
